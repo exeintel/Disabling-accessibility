@@ -28,7 +28,7 @@ Upon launch, the script will automatically check for administrator privileges. I
 Main Menu
 After launching, you will see a menu with three options:
 
-text
+
 ==============================
      Accessibility Settings
 ==============================
